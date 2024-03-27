@@ -2,7 +2,3 @@
 if game.Players.LocalPlayer.Name == 'imjustaboywhosbored' or game.Players.LocalPlayer.Name == '123456789pesos' then
   game.Players.LocalPlayer:Kick('snap back to reality')
 end
-
-if game.Players.LocalPlayer.Name == 'chinesepropaga' then
-  print('testinggggggggg')
-end
